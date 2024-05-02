@@ -1,4 +1,14 @@
 body {
   border: 5px solid black;
   padding: 100px;
-}/*# sourceMappingURL=style.css.map */
+}
+
+.main-container {
+  padding-top: 200px;
+}
+
+* {
+  padding: 300px;
+}
+
+/*Files are connected but nothing works :) *//*# sourceMappingURL=style.css.map */
